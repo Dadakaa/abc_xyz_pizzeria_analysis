@@ -251,7 +251,11 @@ limit 5
 
 ## 4. Интерпретация результатов и бизнес-рекомендации
 
-<h3 align="center">Лидеры по выручке</h3>
+### Лидеры по выручке
+<br>
+<div align="center">
+    <img src="top_5_pizza.png" width="700">
+</div>
 
 |name|revenue|quantity|abc_revenue_quantity|xyz_category|abc_xyz_rev_quant_cv|
 |----|-------|--------|--------------------|------------|--------------------|
@@ -260,6 +264,20 @@ limit 5
 |The California Chicken Pizza|41409.50|2370|AA|X|AAX|
 |The Classic Deluxe Pizza|38180.5|2453|AA|X|AAX|
 |The Spicy Italian Pizza|34831.25|1924|AA|Y|AAY|
+	
+### Аутсайдеры по выручке
+<br>
+<div align="center">
+    <img src="bottom_5_pizza.png" width="700">
+</div>
+
+|name|revenue|quantity|abc_revenue_quantity|xyz_category|abc_xyz_rev_quant_cv|
+|----|-------|--------|--------------------|------------|--------------------|
+|The Spinach Pesto Pizza|15596.00|970|BB|Z|BBZ|
+|The Mediterranean Pizza|15360.50|934|CC|Y|CCY|
+|The Spinach Supreme Pizza|15277.75|950|CC|X|CCX|
+|The Green Garden Pizza|13955.75|997|CB|Z|CBZ|
+|The Brie Carre Pizza|11588.50|490|CC|Z|CCZ|
 
 
 
