@@ -279,6 +279,7 @@ limit 5
 |The Green Garden Pizza|13955.75|997|CB|Z|CBZ|
 |The Brie Carre Pizza|11588.50|490|CC|Z|CCZ|
 
+## 5. Интерпретация результатов ABC-XYZ анализа и бизнес-рекомендации
 
 <h4 align="center">Звёзды меню (AAX)</h4>
 
@@ -383,6 +384,11 @@ limit 5
 **Уникальный ингредиент:**
 - Plum Tomatoes
 
+---
+
+**Инструменты проекта**
+- SQL
+- Python (Pandas, Matplotlib)
 
 
 
