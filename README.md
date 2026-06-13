@@ -251,5 +251,17 @@ limit 5
 
 ## 4. Интерпретация результатов и бизнес-рекомендации
 
+<h3 align="center">Лидеры по выручке</h3>
+
+|name|revenue|quantity|abc_revenue_quantity|xyz_category|abc_xyz_rev_quant_cv|
+|----|-------|--------|--------------------|------------|--------------------|
+|The Thai Chicken Pizza|43434.25|2371|AA|X|AAX|
+|The Barbecue Chicken Pizza|42768.00|2432|AA|X|AAX|
+|The California Chicken Pizza|41409.50|2370|AA|X|AAX|
+|The Classic Deluxe Pizza|38180.5|2453|AA|X|AAX|
+|The Spicy Italian Pizza|34831.25|1924|AA|Y|AAY|
+
+
+
 
 
